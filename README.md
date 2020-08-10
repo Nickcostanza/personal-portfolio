@@ -5,9 +5,9 @@ For this weeks assigment we needed to update our Portfolio, including our resume
 
 ## Tech used
 <ul>
-<li> HTML<li>
-<li> CSS<li>
-<li> BootStrap<li>
+<li> HTML
+<li> CSS
+<li> BootStrap
 </ul>
 
 ## Things to come

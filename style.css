@@ -1,6 +1,6 @@
 body {
     font-family: 'Merriweather Sans', sans-serif;
-    background-color: #355c7d;
+    background-color: #333;
     color: white;
     font-size: 15px;
 
@@ -12,18 +12,18 @@ a {
 }
 
 a:hover {
-    color: #f67280;
+    color: #eb5d00;
 }
 
 h1 {
-    color: #C06c84;
+    color: white;
     font-size: 60px;
     font-weight: bolder;
     padding: 10px;
-    text-shadow: 2px 2px #6c5b7d;
+    text-shadow: 1px 1px 1px;
 }
 
-img {
+.icon {
     height:50px;
     width:50px;
 }
@@ -35,7 +35,7 @@ img {
 }
 
 .jumbotron {
-    background-color: #355c7d;
+    background-color: #333;
 }
 
 .social {
@@ -43,4 +43,29 @@ img {
     justify-content: center;
 }
 
+.card-text{
+    color: #333;
+}
+
+h5 {
+    color: #333;
+    text-decoration: underline;
+}
+
+
+.site-links {
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+
+.git-links {
+    color:#333;
+    
+
+}
+
+.get-links:hover {
+    color:#eb5d00;
+}
 

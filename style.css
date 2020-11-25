@@ -7,6 +7,12 @@ body {
 
 }
 
+.description {
+    font-size: 12px;
+    color: #333;
+}
+
+
 a {
     color: white;
     font-weight: 800;
